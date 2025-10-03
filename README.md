@@ -9,5 +9,5 @@ The above OLS coefficient estimates and their 95% confidence intervals present s
 - **genre_edm** has a significantly positive effect, associated with a higher danceability score
 - **valence** has the strongest positive effect. Tracks with higher valence (i.e. they sound more positive, happy, or cheerful) are associated with a higher value of the dependent variable
 - genres for **metal**, **punk**, **country**, **jazz**, and **rock** are associated with a lower danceability score
-- **acousticness_log** has a significant negative effect on danceability
+- **acousticness** has a significant negative effect on danceability
 - **energy** has the largest magnitude negative effect. Tracks with higher energy are strongly associated with lower danceability.
